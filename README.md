@@ -29,9 +29,6 @@ This repository houses a simple Python script that demonstrates how to send desk
 - Modify the title and message in the `Desktop_notifier.py` script to personalize your notifications.
 - Adjust the timeout to control how long the notification stays visible.
 
-## Contribution
-
-Contributions are welcome! If you have suggestions, improvements, or feature ideas, feel free to open a pull request. Before contributing, please review the [Contribution Guidelines](CONTRIBUTING.md).
 
 ## Stay Connected
 
